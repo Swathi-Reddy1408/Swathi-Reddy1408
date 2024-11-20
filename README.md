@@ -18,8 +18,3 @@ Welcome to my GitHub! I'm a Software Engineer with 2+ years of experience specia
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 🌟 Profile Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Swathi-Reddy1408E&color=brightgreen&style=flat-square)
-
-
