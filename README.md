@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a Software Engineer with 2+ years of experience specia
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tools &  Technologies 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
