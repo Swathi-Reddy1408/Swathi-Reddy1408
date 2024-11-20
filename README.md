@@ -20,6 +20,6 @@ Welcome to my GitHub! I'm a Software Engineer with 2+ years of experience specia
 
 ## 🌟 Profile Stats
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Swathi-Reddy1408&title=Profile%20Views&edge_flat=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Swathi-Reddy1408E&color=brightgreen&style=flat-square)
 
 
