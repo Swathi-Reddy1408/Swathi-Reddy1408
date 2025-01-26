@@ -2,7 +2,7 @@
 
 ## 🎓 **Recent Graduate | Software Engineer**
 
-Welcome to my GitHub! I'm a Software Engineer with 2+ years of experience specializing in **Integration**, **ETL Pipelines**, and **Backend Development**. I’m passionate about building scalable and efficient systems, and I thrive on solving complex problems.  
+Welcome to my GitHub! I'm a Software Engineer with 2+ years of experience specializing in **Backend Development**. I’m passionate about building scalable and efficient systems, and I thrive on solving complex problems.  
 
 ---
 
